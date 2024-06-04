@@ -1,0 +1,9 @@
+streamlit
+mediapipe
+numpy 
+math
+time
+cv2
+nylas
+datetime
+random
