@@ -1,7 +1,7 @@
 streamlit
 mediapipe
 numpy
-cv2
+opencv-python
 nylas
 datetime
 random
