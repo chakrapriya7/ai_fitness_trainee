@@ -1,7 +1,6 @@
 streamlit
 mediapipe
 numpy
-time
 cv2
 nylas
 datetime
