@@ -1,7 +1,6 @@
 streamlit
 mediapipe
-numpy 
-math
+numpy
 time
 cv2
 nylas
