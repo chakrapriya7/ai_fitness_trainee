@@ -12,7 +12,7 @@ def cals(name,reps):
         return reps *15
     if name == "Push Ups":
         return reps *15
-    if name == "High Knees":``
+    if name == "High Knees":
         return reps *8
     if name == "Knee Bend":
         return reps *2
