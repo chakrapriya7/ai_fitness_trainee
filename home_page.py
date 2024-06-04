@@ -1,7 +1,6 @@
 import streamlit as st
 import mediapipe as mp
 import numpy as np
-import math
 import time
 import cv2
 from EmailingSystem import email_user
